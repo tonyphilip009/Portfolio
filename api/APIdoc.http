@@ -1,0 +1,27 @@
+###
+GET http://127.0.0.1:8000/about/
+Accept: application/json
+
+### 
+GET http://127.0.0.1:8000/education/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/projects/
+Accept: application/application/json
+
+###
+GET http://127.0.0.1:8000/skills/
+Accept: application/application/json
+
+###
+GET http://127.0.0.1:8000/experience/
+Accept: application/application/json
+
+###
+GET http://127.0.0.1:8000/certifications/
+Accept: application/application/json
+
+###
+GET http://127.0.0.1:8000/services/
+Accept: application/application/json
